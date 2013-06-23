@@ -16,5 +16,6 @@ public class Prj_TesteGit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Repositorio Git! Teste");
+        System.out.println("Commit on GitHub!");
     }
 }
